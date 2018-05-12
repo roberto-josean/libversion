@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libversion/tests/compare_test.c
+libversion/version.h
+-
+stdio.h
+-
+string.h
+-
+
+libversion/version.h
+

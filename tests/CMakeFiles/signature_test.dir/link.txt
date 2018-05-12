@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/signature_test.dir/signature_test.c.o  -o signature_test -rdynamic ../libversion/libversion.a 

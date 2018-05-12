@@ -1,0 +1,2 @@
+/usr/bin/ar qc libversion.a  CMakeFiles/version_static.dir/compare.c.o CMakeFiles/version_static.dir/signature.c.o
+/usr/bin/ranlib libversion.a

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/compare_fuzzer.dir/compare_fuzzer.c.o  -o compare_fuzzer -rdynamic ../libversion/libversion.a 

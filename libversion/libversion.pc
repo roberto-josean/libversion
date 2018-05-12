@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libversion
+Description: Version comparison library
+Version: 2.6.0
+Libs: -L${libdir} -lversion
+Cflags: -I${includedir}

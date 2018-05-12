@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/version_compare.dir/version_compare.c.o  -o version_compare -rdynamic ../libversion/libversion.a 

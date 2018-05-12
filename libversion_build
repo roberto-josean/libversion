@@ -1,0 +1,26 @@
+Scanning dependencies of target version
+[  7%] Building C object libversion/CMakeFiles/version.dir/compare.c.o
+[ 14%] Building C object libversion/CMakeFiles/version.dir/signature.c.o
+[ 21%] Linking C shared library libversion.so
+[ 21%] Built target version
+Scanning dependencies of target version_static
+[ 28%] Building C object libversion/CMakeFiles/version_static.dir/compare.c.o
+[ 35%] Building C object libversion/CMakeFiles/version_static.dir/signature.c.o
+[ 42%] Linking C static library libversion.a
+[ 42%] Built target version_static
+Scanning dependencies of target compare_test
+[ 50%] Building C object tests/CMakeFiles/compare_test.dir/compare_test.c.o
+[ 57%] Linking C executable compare_test
+[ 57%] Built target compare_test
+Scanning dependencies of target signature_test
+[ 64%] Building C object tests/CMakeFiles/signature_test.dir/signature_test.c.o
+[ 71%] Linking C executable signature_test
+[ 71%] Built target signature_test
+Scanning dependencies of target compare_fuzzer
+[ 78%] Building C object tests/CMakeFiles/compare_fuzzer.dir/compare_fuzzer.c.o
+[ 85%] Linking C executable compare_fuzzer
+[ 85%] Built target compare_fuzzer
+Scanning dependencies of target version_compare
+[ 92%] Building C object version_compare/CMakeFiles/version_compare.dir/version_compare.c.o
+[100%] Linking C executable version_compare
+[100%] Built target version_compare

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libversion.so.0 -o libversion.so.0.0.0 CMakeFiles/version.dir/compare.c.o CMakeFiles/version.dir/signature.c.o 

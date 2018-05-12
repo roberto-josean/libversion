@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libversion/tests/compare_fuzzer.c
+libversion/version.h
+-
+stdio.h
+-
+
+libversion/version.h
+

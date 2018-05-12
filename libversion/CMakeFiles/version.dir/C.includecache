@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/predator/Documents/Project/temp/libversion/libversion/compare.c
+libversion/version.h
+-
+stdint.h
+-
+limits.h
+-
+stddef.h
+-
+string.h
+-
+
+/home/predator/Documents/Project/temp/libversion/libversion/signature.c
+limits.h
+-
+stdio.h
+-
+libversion/version.h
+-
+
+libversion/version.h
+
